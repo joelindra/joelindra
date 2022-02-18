@@ -9,7 +9,7 @@
 
 - 🔭 Internship on Kepolisian Daerah Bali [ In oktober - januari 2021-2022 ] **Make archive case criminal system**
 
-- 🔭 Internship on Dinas Penanaman Modal Kabupaten Badung [ In oktober - Current ] **Do some penetration testing on the website and make some reporting**
+- 🔭 Internship on Dinas Penanaman Modal Kabupaten Badung [ In oktober - Current ] **Do some penetration testing on the website and make some report**
 
 - 🔭 Internship on Kepolisian Daerah Bali [ In oktober - januari 2021-2022 ] **Do some penetration testing on the website**
 
