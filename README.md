@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Joel Indra ( anonre )</h1>
-<h3 align="center">Passionate With IT Security</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonre&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anonre&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anonre&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonre&label=Profile%20views&color=0e75b6&style=flat" alt="anonre" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonre" alt="anonre" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Internship on Kepolisian Daerah Bali [ In oktober - januari 2021-2022 ] **Make archive case criminal system**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/44172898/154748368-641c849b-ec14-44cf-9c58-fbd3bd2f59e2.png">
 
-- 🔭 Internship on Dinas Penanaman Modal Kabupaten Badung [ In oktober - Current ] **Do some penetration testing on the website and make some report**
+🌱 I’m currently learning **Cyber Security**
 
-- 🔭 Internship on Kepolisian Daerah Bali [ In oktober - januari 2021-2022 ] **Do some penetration testing on the website**
+👨‍💻 All of my projects are available at [https://joelindra.tech](https://joelindra.tech)
 
-- 🌱 I’m currently learning **Cyber Security**
+💬 Ask me about **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://joelindra.tech](https://joelindra.tech)
+📫 How to reach me **yoelindra1@gmail.com**
 
-- 💬 Ask me about **Cyber Security**
+📄 Know about my experiences [https://joelindra.tech](https://joelindra.tech)
 
-- 📫 How to reach me **yoelindra1@gmail.com**
+⚡ Fun fact **I think i have bigger smile LOL**
 
-- 📄 Know about my experiences [https://joelindra.tech](https://joelindra.tech)
+<h3 align="left">Some Of My Certifications Badge</h3>
 
-- ⚡ Fun fact **I think i have bigger smile LOL**
+<img src="https://user-images.githubusercontent.com/44172898/154745653-1983c0fb-d727-47c4-86e0-054a0f91957f.png" width="100" height="100"> <img src="https://user-images.githubusercontent.com/44172898/154745758-a80e6aff-60f1-4a2a-adb5-d6af4fc7a88c.png" width="100" height="100">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
