@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/44172898/154748368-641c849b-ec14-44cf-9c58-fbd3bd2f59e2.png">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/44172898/154749839-97fb628b-94b5-4b24-9c0f-a0df44ff1acf.gif">
 
 🌱 I’m currently learning **Cyber Security**
 
