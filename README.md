@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Indra ( anonre )</h1>
-<h3 align="center">passionate with it security like bug bounty, penetration testing and vulnerability assessment</h3>
+<h3 align="center">Passionate With IT Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonre&label=Profile%20views&color=0e75b6&style=flat" alt="anonre" /> </p>
 
