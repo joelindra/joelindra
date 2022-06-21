@@ -1,11 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonre&show_icons=true&theme=radical) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anonre&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonre&label=Profile%20views&color=0e75b6&style=flat" alt="anonre" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 🌱 I’m currently learning **Cyber Security**
 
 👨‍💻 All of my projects are available at [https://joelindra.tech](https://joelindra.tech)
