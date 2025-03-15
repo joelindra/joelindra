@@ -1,6 +1,6 @@
 # 🛡️ Security Addicted
 
-## Welcome to my GitHub profile! I am passionate about security tools and techniques. Below is a glimpse of my **Tech Stack**, contributions, and personal information.
+<center>## Welcome to my GitHub profile! I am passionate about security tools and techniques. Below is a glimpse of my **Tech Stack**, contributions, and personal information.</center>
 <br>
 
 <div align="center">
