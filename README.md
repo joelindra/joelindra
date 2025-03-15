@@ -1,5 +1,3 @@
-# 🛡️ Security Addicted
-
 <div align="center">
 <img src="https://img.shields.io/badge/Metasploit-7A1736?style=flat-square&logo=metasploit&logoColor=white">
 <img src="https://img.shields.io/badge/Nmap-7A7A7A?style=flat-square&logo=nmap&logoColor=white">
