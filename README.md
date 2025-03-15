@@ -1,10 +1,7 @@
 # 🛡️ Security Addicted
 
 Welcome to my GitHub profile! I am passionate about security tools and techniques. Below is a glimpse of my **Tech Stack**, contributions, and personal information.
-
----
-
-## 💻 My Addicted Tools
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Metasploit-7A1736?style=flat-square&logo=metasploit&logoColor=white">
