@@ -39,7 +39,7 @@
 
 ## ⚡ Fun Fact
 
-- I am also passionate about **ethical hacking** and have been working with **open-source security tools** for 5 years!
+- I am passionate about **ethical hacking** and have been working with **open-source security tools** for 5 years!
 - I love participating in **Capture The Flag (CTF)** events and constantly improving my skills.
 
 ---
