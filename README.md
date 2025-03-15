@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 <samp>
-  <strong style="font-size: 1.5em; color: #FF5733;">💻 Bug Hunter - Code Kiddies</strong> <span style="font-size: 1.5em; color: #3498DB;">- Security Addicted</span>
+  <strong style="font-size: 1.5em; color: #FF5733;">Security Addicteds</strong> <span style="font-size: 1.5em; color: #3498DB;"></span>
 </samp>
  <br>
 </div>
