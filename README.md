@@ -1,15 +1,7 @@
-<div align="center">
-</pre>
-</div>
-<div align="center">
-Im not hacker, just love some h3ck
-</div>
-
 <br>
-
 <div align="center">
 <samp>
- 🖖 Code Lover | 🔐 Security Engineer | ☕️ Coffe Lover | 🌵 Web Developer | 💻 Bug Hunter
+| 💻 Bug Hunter - Code Kiddies - Security Addicted
  </samp>
  <br>
  <samp>
