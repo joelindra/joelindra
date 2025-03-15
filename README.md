@@ -2,14 +2,7 @@
 </pre>
 </div>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Software%20Enginering%20And%20security%20engineer;I+Love+Security+:%3E">
-</div>
-
-<div align="center">
- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
- <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+Im not hacker, just love some h3ck
 </div>
 
 <br>
