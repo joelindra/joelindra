@@ -14,45 +14,10 @@ Here are some of the tools and technologies I frequently work with:
 
 ---
 
-## 📊 Joelindra's GitHub Stats
-
-Check out my GitHub stats below:
-
-<div align="center">
-  ![Joelindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joelindra&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-</div>
-
----
-
-## 🌐 Contact Me
-
-Feel free to reach out to me for collaboration or just to connect! 😊
-
-- ✉️ **Email**: [youremail@example.com](mailto:youremail@example.com)
-- 🌍 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 **Website**: [www.yourwebsite.com](https://www.yourwebsite.com)
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🥇 **Cybersecurity Expert** - [Certification Name]
-- 🎓 **Degree in Computer Science** - [University Name]
-- 🏅 **HackerRank**: 5-star in [specific challenge]
-
----
-
 ## ⚡ Fun Fact
 
-- I am also passionate about **ethical hacking** and have been working with **open-source security tools** for years!
+- I am also passionate about **ethical hacking** and have been working with **open-source security tools** for 5 years!
 - I love participating in **Capture The Flag (CTF)** events and constantly improving my skills.
-
----
-
-## 📝 Blog
-
-- You can also check out my articles on **security**, **hacking** techniques, and **data privacy** on my [blog](https://www.yourblog.com).
 
 ---
 
@@ -60,13 +25,6 @@ Feel free to reach out to me for collaboration or just to connect! 😊
 
 The content shared here is for **educational purposes** only. I do not support or endorse any illegal activities.
 
----
-
-### 📅 Upcoming Projects
-
-- Working on an **advanced vulnerability scanner**.
-- Developing a **penetration testing toolkit** for developers.
-  
 ---
 
 ### Footer
