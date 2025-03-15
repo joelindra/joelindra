@@ -1,8 +1,5 @@
 # 🛡️ Security Addicted
 
-"Welcome to my GitHub profile! Here, I will share all of my tools and hacking techniques."
-<br>
-
 <div align="center">
 <img src="https://img.shields.io/badge/Metasploit-7A1736?style=flat-square&logo=metasploit&logoColor=white">
 <img src="https://img.shields.io/badge/Nmap-7A7A7A?style=flat-square&logo=nmap&logoColor=white">
