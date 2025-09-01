@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/Firewall-5A2D8E?style=flat-square&logo=firewall&logoColor=white">
   <img src="https://img.shields.io/badge/Adversary_Tactics-70D2D2?style=flat-square&logo=adversary-tactics&logoColor=white">
   <img src="https://img.shields.io/badge/Threat_Hunting-56D74C?style=flat-square&logo=threathunting&logoColor=white">
-  <img src="https://img.shields.io/badge/OSCP-0040FF?style=flat-square&logo=offensive-security&logoColor=white">
-  <img src="https://img.shields.io/badge/OSWE-FF7B00?style=flat-square&logo=offensive-security&logoColor=white">
   <img src="https://img.shields.io/badge/Pwning-9E9E9E?style=flat-square&logo=pwn&logoColor=white">
   <img src="https://img.shields.io/badge/Seclists-FA5B00?style=flat-square&logo=seclists&logoColor=white">
 </div>
